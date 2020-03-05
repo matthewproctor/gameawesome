@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Game Awesome
 
-You can use the [editor on GitHub](https://github.com/matthewproctor/gameawesome/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a simple JavaScript game using FontAwesome instead of traditional graphics sprites.  Check out the font at [FontAwsesome](https://fontawesome.com/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Why did I build this? We were joking at the office about making a game using FontAwesome's new collection of sci-fi font characters, got bored one night at home, so created this.
 
-### Markdown
+The game is available at [https://matthewproctor.github.io/gameawesome/](https://matthewproctor.github.io/gameawesome/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Who am I?
 
-```markdown
-Syntax highlighted code block
+I'm an Australian software developer. You can learn more [at my blog](https://matthewproctor.com/).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matthewproctor/gameawesome/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Follow me on Twitter - [@mattproctorau](https://twitter.com/mattproctorau)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Submit an [issue ](https://github.com/matthewproctor/gameawesome) or contact me via my blog or Twitter.
